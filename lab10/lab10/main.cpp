@@ -31,7 +31,6 @@ void wklad_powyzej(Konto tab[], int n);
 void menu();
 void b2menu();
 
-
 int main()
 {
 	menu();
