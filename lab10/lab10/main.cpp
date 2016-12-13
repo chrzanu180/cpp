@@ -11,7 +11,6 @@ struct Osoba
 {
 	char nazwisko[10];
 	char imie[10];
-
 };
 
 
@@ -20,7 +19,6 @@ struct Konto
 	Osoba klient;
 	int numer;
 	float wklad;
-
 };
 
 void wczytaj(Konto tab[], int n);
