@@ -4,7 +4,7 @@
 #include <conio.h> //do obslugi _getch() w menu
 
 #define N 3
-//git chrzan ^^
+
 using namespace std;
 
 struct Osoba
